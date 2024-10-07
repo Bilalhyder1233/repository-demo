@@ -1,4 +1,4 @@
 # repository-demo
 This is my first Git  Repository
 <br>
-author - Bilal Hyder
+Author - Bilal Hyder (CodewithBhMz)
